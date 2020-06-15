@@ -1,0 +1,131 @@
+[{
+	"sources": [{
+			"file": "https://archive.org/download/dinh.-dai.-vu-my.-nhan/Dinh.Dai.Vu-My.Nhan.mp3",
+			"label": "320K"
+		}],
+		"image": "https://archive.org/download/dinh.-dai.-vu.-cover.-zing-mp-3/Dinh.Dai.Vu.Cover.ZingMP3.jpg",
+		"thumb": "https://avatar-nct.nixcdn.com/singer/avatar/2018/03/27/3/f/5/f/1522142059144.jpg",
+		"mediaid": "539434",
+		"media_title": "Mỹ Nhân",
+		"media_desc": "Đinh Đại Vũ",
+		"title": "Mỹ Nhân - Đinh Đại Vũ",
+		"active_from": 1487898000,
+		"link": "http:\/\/nhac.vn",
+		"tracks": [{
+			"file": "https://dl.dropboxusercontent.com/s/h4oze56wis83bh8/Dinh.Dai.Vu-My.Nhan.vtt",
+			"kind": "captions",
+			"label": "L\u1eddi Karaoke",
+			"default": false
+		}]
+	},
+	{
+		"sources": [{
+			"file": "https://archive.org/download/doan.-hieu-tinh.-sau.-thien.-thu.-muon.-loi/Doan.Hieu-Tinh.Sau.Thien.Thu.Muon.Loi.mp3",
+			"label": "320K"
+		}],
+		"image": "https://ia801509.us.archive.org/23/items/doan.-hieu.-cover/Doan.Hieu.Cover.png",
+		"thumb": "https://ia801405.us.archive.org/9/items/doan.-hieu.-avatar-2/Doan.Hieu.Avatar2.jpg",
+		"mediaid": "539431",
+		"media_title": "Tình Sầu Thiên Thu Muôn Lối",
+		"media_desc": "Doãn Hiếu",
+		"title": "Tình Sầu Thiên Thu Muôn Lối - Doãn Hiếu",
+		"active_from": 1487898000,
+		"link": "http:\/\/nhac.vn",
+		"tracks": [{
+			"file": "https://dl.dropboxusercontent.com/s/r2sugbfcrmog71z/Doan.Hieu-Tinh.Sau.Thien.Thu.Muon.Loi.vtt?dl=0",
+			"kind": "captions",
+			"label": "L\u1eddi Karaoke",
+			"default": false
+		}]
+	},
+	{
+		"mediaid": "003",
+		"media_title": "Từng Yêu",
+		"media_desc": "Phan Duy Anh",
+		"title": "Từng Yêu - Phan Duy Anh",
+		"image": "https://archive.org/download/phan.-duy.-anh.-cover/Phan.Duy.Anh.Cover.jpg",
+		"thumb": "https://dl.dropboxusercontent.com/s/iz3x7w3w1wfldd4/Phan.Duy.Anh.Avatar2.jpg",
+		"sources": [{
+			"file": "https://archive.org/download/phan.-duy.-anh-tung.-yeu/Phan.Duy.Anh-Tung.Yeu.mp3",
+			"label": "128K"
+		}],
+		"tracks": [{
+			"file": "https://dl.dropboxusercontent.com/s/r8vn3sh1ux3xv4v/Phan.Duy.Anh-Tung.Yeu.vtt",
+			"kind": "captions",
+			"label": "L\u1eddi Karaoke",
+			"default": false
+		}]
+	},
+	{
+		"mediaid": "004",
+		"media_title": "Gặp Đúng Người Sai Thời Điểm",
+		"media_desc": "Trương Linh Đan",
+		"title": "Gặp Đúng Người Sai Thời Điểm - Trương Linh Đan",
+		"image": "https://dl.dropboxusercontent.com/s/bmrrv8qtf1qyz1b/Truong.Linh.Dan.Cover.jpg",
+		"thumb": "https://dl.dropboxusercontent.com/s/anfc4gf1rxb7v2e/Truong.Linh.Dan-Gap.Dung.Nguoi.Sai.Thoi.Diem.Avatar.jpg",
+		"sources": [{
+			"file": "https://dl.dropboxusercontent.com/s/6dzrckszb2p6e9d/Truong.Linh.Dan-Gap.Dung.Nguoi.Sai.Thoi.Diem.mp3",
+			"label": "128K"
+		}],
+		"tracks": [{
+			"file": "https://dl.dropboxusercontent.com/s/2lav50rtmim2jnj/Truong.Linh.Dan-Gap.Dung.Nguoi.Sai.Thoi.Diem.srt",
+			"kind": "captions",
+			"label": "L\u1eddi Karaoke",
+			"default": false
+		}]
+	},
+	{
+		"mediaid": "005",
+		"media_title": "Gửi Anh Xa Nhớ",
+		"media_desc": "Bích Phương",
+		"title": "Gửi Anh Xa Nhớ - Bích Phương",
+		"image": "https://dl.dropboxusercontent.com/s/nz3j1eqo41qpqzy/Bich.Phuong.Cover.jpg?dl=0",
+		"thumb": "https://dl.dropboxusercontent.com/s/f3ircksq3lb612f/Bich.Phuong-Gui.Anh.Xa.Nho.Avatar.jpg",
+		"sources": [{
+			"file": "https://dl.dropboxusercontent.com/s/yvi01i6aeoa2btg/Bich.Phuong-Gui.Anh.Xa.Nho.mp3",
+			"label": "128K"
+		}],
+		"tracks": [{
+			"file": "https://dl.dropboxusercontent.com/s/rkzfkbxwxah9v2e/Bich.Phuong-Gui.Anh.Xa.Nho.vtt",
+			"kind": "captions",
+			"label": "L\u1eddi Karaoke",
+			"default": false
+		}]
+	},				
+	{
+		"mediaid": "006",
+		"media_title": "Mình Yêu Nhau Đi",
+		"media_desc": "Bích Phương",
+		"title": "Mình Yêu Nhau Đi - Bích Phương",
+		"image": "https://dl.dropboxusercontent.com/s/nz3j1eqo41qpqzy/Bich.Phuong.Cover.jpg?dl=0",
+		"thumb": "https://dl.dropboxusercontent.com/s/f3ircksq3lb612f/Bich.Phuong-Gui.Anh.Xa.Nho.Avatar.jpg",
+		"sources": [{
+			"file": "https://dl.dropboxusercontent.com/s/k98mq7b4cysxs57/Bich.Phuong-Minh.Yeu.Nhau.Di.mp3",
+			"label": "128K"
+		}],
+		"tracks": [{
+			"file": "https://dl.dropboxusercontent.com/s/lmcvpe2kr3y4pi6/Bich.Phuong-Minh.Yeu.Nhau.Di.vtt?dl=0",
+			"kind": "captions",
+			"label": "L\u1eddi Karaoke",
+			"default": false
+		}]
+	},
+	{
+		"mediaid": "007",
+		"media_title": "Bùa Yêu",
+		"media_desc": "Bích Phương",
+		"title": "Bùa Yêu - Bích Phương",
+		"image": "https://dl.dropboxusercontent.com/s/nz3j1eqo41qpqzy/Bich.Phuong.Cover.jpg?dl=0",
+		"thumb": "https://dl.dropboxusercontent.com/s/51zy3jsf5xkcrzx/Bich.Phuong-Bua.Yeu.Avatar.jpg",
+		"sources": [{
+			"file": "https://dl.dropboxusercontent.com/s/apqgyok4w336e1u/Bich.Phuong-Bua.Yeu.mp3",
+			"label": "128K"
+		}],
+		"tracks": [{
+			"file": "https://dl.dropboxusercontent.com/s/7jc9qxwov5yrcvg/Bich.Phuong-Bua.Yeu.vtt?dl=0",
+			"kind": "captions",
+			"label": "L\u1eddi Karaoke",
+			"default": false
+		}]
+	}
+]
